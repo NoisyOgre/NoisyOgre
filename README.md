@@ -1,4 +1,4 @@
-### Hi there 👋 I am Gregory Marklew I am a Web Developer competent in both front-end and back-end technologies. I’m currently learning Microsoft Azure fundamentals, and Python. and later on I am hope to learn even more 
+### Hi there 👋 I am Gregory Marklew I am a Web Developer competent in both front-end and back-end technologies. I’m currently learning Docker,Kubernetes, and Python. and later on I am hope to learn even more 
 
 <!--
 **NoisyOgre/NoisyOgre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
